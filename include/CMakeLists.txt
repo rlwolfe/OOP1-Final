@@ -1,0 +1,1 @@
+﻿target_include_directories (Project_rachel_wolfe_akiva_stern PRIVATE ${CMAKE_CURRENT_LIST_DIR})
